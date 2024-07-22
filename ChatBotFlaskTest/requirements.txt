@@ -1,0 +1,6 @@
+chatterbot==1.0.4
+chatterbot_corpus
+pytz
+PyYaml==5.1
+flask
+

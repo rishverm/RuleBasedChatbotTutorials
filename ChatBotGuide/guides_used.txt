@@ -1,0 +1,4 @@
+Level 1: https://medium.com/geekculture/creating-a-simple-rule-based-chatbot-with-python-e7928d0573af
+Level 2: https://python.plainenglish.io/how-to-make-a-rule-based-chatbot-in-python-using-flask-d5649a6ce308
+Level 3: https://stackabuse.com/python-for-nlp-creating-a-rule-based-chatbot/
+Additional Information: https://www.hubtype.com/blog/rule-based-chatbots-vs-ai-chatbots
